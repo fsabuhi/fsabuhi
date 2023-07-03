@@ -1,5 +1,5 @@
 
-<h1 align="center">  Hi there, I am Sabuhi 👨‍💻</h1>
+<!---<h1 align="center">  Hi there, I am Sabuhi 👨‍💻</h1>-->
 
 - Computer Engineering student at ASOIU(Azerbaijan State Oil and Industry University)
 - 🌐 [Resume](https://drive.google.com/file/d/1cYpPJfHhdVOlLH9DWpMzp9peCchKG-xw/view?usp=sharing) for complete background and contact.
@@ -31,4 +31,5 @@
 ## Public Contributions
 [![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dopedotcode&show_icons=true&theme=dark)](https://github.com/fsabuhi)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=4763F7&center=true&vCenter=true&width=600&lines=Creative;Flexible;Innovative;Organized)
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=4763F7&center=true&vCenter=true&width=600&lines=Creative;Flexible;Innovative;Organized)
+-->
