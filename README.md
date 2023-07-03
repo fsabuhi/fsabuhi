@@ -1,5 +1,5 @@
 
-<!---<h1 align="center">  Hi there, I am Sabuhi 👨‍💻</h1>-->
+<h1 align="center"> Sabuhi Fatalizada 👨‍💻</h1>
 
 - Computer Engineering student at ASOIU(Azerbaijan State Oil and Industry University)
 - 🌐 [Resume](https://drive.google.com/file/d/1cYpPJfHhdVOlLH9DWpMzp9peCchKG-xw/view?usp=sharing) for complete background and contact.
