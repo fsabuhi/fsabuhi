@@ -3,10 +3,12 @@
 
 - Computer Engineering student at ASOIU(Azerbaijan State Oil and Industry University)
 - 🌐 [Resume](https://drive.google.com/file/d/1cYpPJfHhdVOlLH9DWpMzp9peCchKG-xw/view?usp=sharing) for complete background and contact.
+<!---
 <div align="center">
   <a href="https://github.com/fsabuhi/">
   <img  src="https://github.com/fsabuhi/fsabuhi/blob/main/assets/grid-snake.svg" alt="snake" /></a>
 </div>
+-->
 
 ## Tech Stack :computer:
 <p align="center">
