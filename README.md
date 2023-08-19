@@ -2,7 +2,7 @@
 <h1 align="center"> Sabuhi Fatalizada 👨‍💻</h1>
 
 - Computer Engineering student at ASOIU(Azerbaijan State Oil and Industry University)
-- 🌐 [Resume](https://drive.google.com/file/d/1cYpPJfHhdVOlLH9DWpMzp9peCchKG-xw/view?usp=sharing) for complete background and contact.
+- 🌐 [Resume](https://drive.google.com/file/d/1zYGJWMz6I92HX7YWd8tWNWYehszWeDle/view?usp=sharing) for complete background and contact.
 <!---
 <div align="center">
   <a href="https://github.com/fsabuhi/">
