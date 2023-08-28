@@ -26,7 +26,8 @@
 </p>
 
 ## Projects
-- [**BeSocial English**](https://besocialeng.com/) Vocabulary learning bot **->** Software Stack : Python (with python-telegram-bot, pymongo, etc. libraries), Apache HTTP Server, MySQL, Linux (AWS E2)
+- [**BeSocial English**](https://besocialeng.com/) Vocabulary learning bot that helps users learn new vocabulary and phrases. The bot was built using Python and utilizes the python-telegram-bot, pymongo, and other libraries. The bot is hosted on an Apache HTTP Server and uses MongoDB for data storage. The bot is deployed on Linux (AWS E2).
+
 
 <!--## Public Contributions
 [![Sabuhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsabuhi&show_icons=true&theme=dark)](https://github.com/fsabuhi)-->
