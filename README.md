@@ -25,8 +25,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="40"/>
 </p>
 
-## Projects
-- [**BeSocial English**](https://besocialeng.com/) Vocabulary learning bot that helps users learn new vocabulary and phrases. The bot was built using Python and utilizes the python-telegram-bot, pymongo, and other libraries. The bot is hosted on an Apache HTTP Server and uses MongoDB for data storage. The bot is deployed on Linux (AWS E2).
+<!--## Projects
+- [**BeSocial English**](https://besocialeng.com/) Vocabulary learning bot that helps users learn new vocabulary and phrases. The bot was built using Python and utilizes the python-telegram-bot, pymongo, and other libraries. The bot is hosted on an Apache HTTP Server and uses MongoDB for data storage. The bot is deployed on Linux (AWS E2). -->
 
 
 <!--## Public Contributions
